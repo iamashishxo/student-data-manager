@@ -21,9 +21,8 @@ Delete Any Student's Records by Id.
 Search
 View any Student's Records by Id.
 <h1>screenshots of the program running in terminal</h1>
-![admin_menu](https://github.com/iamashishxo/student-data-manager/assets/79656682/605f0c65-4f7b-4ae1-ac92-e8b6a87fefd2)
-![view_record](https://github.com/iamashishxo/student-data-manager/assets/79656682/0ecbde82-6692-4ad0-ab6c-112c368833cd)
-![delete_record](https://github.com/iamashishxo/student-data-manager/assets/79656682/6ae17e4c-0c6c-4f44-a272-966a2a26d68e)
+![admin_menu](https://github.com/iamashishxo/student-data-manager/assets/79656682/25bb29c8-da1c-40c0-961f-a90ccad5a6a2)
+
 
 
 
