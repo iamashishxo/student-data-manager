@@ -22,6 +22,8 @@ Search
 View any Student's Records by Id.
 screenshots of the program running in terminal
 ![admin_menu](https://github.com/iamashishxo/student-data-manager/assets/79656682/25bb29c8-da1c-40c0-961f-a90ccad5a6a2)
+![view_record](https://github.com/iamashishxo/student-data-manager/assets/79656682/e7c8a4e8-fb38-487f-8757-bc5095e6fbad)
+![delete_record](https://github.com/iamashishxo/student-data-manager/assets/79656682/6a2fa030-748e-4a14-bf2e-92acb510dbde)
 
 
 
